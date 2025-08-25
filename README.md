@@ -13,8 +13,8 @@ Your team will step into the role of a data science group hired to design a Stud
 
 **Note:**
 
-- [ ] This project needs to be worked on in a group. Individual submissions will incur a straight 25% penalty.
-- [ ] Groups need to be finalized by Monday. If you have formed a group by then, drop me a message on Teams with the name of the group and members. If you haven't formed a group or prefer to be assigned to a random group, drop me a message on Teams too. Either way, I expect a message from you before 5 pm on Monday.
+- [x] This project needs to be worked on in a group. Individual submissions will incur a straight 25% penalty.
+- [x] Groups need to be finalized by Monday. If you have formed a group by then, drop me a message on Teams with the name of the group and members. If you haven't formed a group or prefer to be assigned to a random group, drop me a message on Teams too. Either way, I expect a message from you before 5 pm on Monday.
 
 ## Instructions
 

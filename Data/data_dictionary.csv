@@ -1,0 +1,16 @@
+Column Name,Description,Data Type,Acceptable Values
+StudentID,Unique identifier assigned to each student,Integer,1001-3392
+Age,Age of the student,Integer,15-18
+Gender,Gender of the student,Integer (0/1),0 = Male; 1 = Female
+Ethnicity,Ethnic background of the student,Categorical,Caucasian; African American; Asian; Other
+ParentalEducation,Highest education level of parents,Categorical,None; High School; Some College; Bachelor's; Higher
+StudyTimeWeekly,Average weekly study time (hours),Float,Positive float value
+Absences,Number of school absences,Integer,Positive integer value
+Tutoring,Participation in tutoring,Integer (0/1),0 = No; 1 = Yes
+ParentalSupport,Level of parental support,Categorical,None; Low; Moderate; High; Very High
+Extracurricular,Participation in extracurricular activities,Integer (0/1),0 = No; 1 = Yes
+Sports,Participation in sports,Integer (0/1),0 = No; 1 = Yes
+Music,Participation in music-related activities,Integer (0/1),0 = No; 1 = Yes
+Volunteering,Participation in volunteering,Integer (0/1),0 = No; 1 = Yes
+GPA,Grade Point Average (scale),Float,0.0-4.0
+GradeClass,Classification of student grades (based on GPA),Integer (0-4),0=A (≥3.5); 1=B (3.0-3.49); 2=C (2.5-2.99); 3=D (2.0-2.49); 4=F (<2.0)
